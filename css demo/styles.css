@@ -1,0 +1,38 @@
+body{
+
+     font-family: Verdana, Geneva, Tahoma, sans-serif; 
+     font-size: medium;
+     background-color: rgb(76, 117, 117);
+
+}
+
+
+.container{
+     max-width: 1000px;
+     margin: 0 auto;
+     padding: 20px;
+
+}
+
+.card{
+    display: inline-block;
+    width: 250px;
+    padding: 250px;
+    background-color: red;
+    border: 1px solid;
+    border-radius: 8px;
+
+}
+
+menu{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   list-style: none;
+   color: maroon;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
