@@ -1,13 +1,31 @@
 body {
-    background-color: lightgray;
     font-family: Arial, sans-serif;
-    padding: 20px;
-
 }
 
 h1 {
-    color: darkblue;
+    color: navy;
+    text-transform: uppercase;
 }
-p {
-   font-size: 16px;
+
+#pagetitle {
+    text-align:center;
+}
+
+.card {
+    background-color: #eeeeee;
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.card p {
+    color: #444444;
+}
+
+.highlight {
+    color : red;
+}
+
+h2, h3 {
+    color: darkgreen;
 }
