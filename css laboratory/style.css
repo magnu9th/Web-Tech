@@ -1,3 +1,21 @@
+--lab1--
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+
+}
+
+h1 {
+    color: darkblue;
+}
+p {
+   font-size: 16px;
+}
+
+
+
+--lab2--
 body {
     font-family: Arial, sans-serif;
 }
@@ -29,3 +47,5 @@ h1 {
 h2, h3 {
     color: darkgreen;
 }
+
+---lab3---
