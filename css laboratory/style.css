@@ -1,4 +1,4 @@
---lab1--
+/* lab1 */
 body {
     background-color: lightgray;
     font-family: Arial, sans-serif;
@@ -15,7 +15,7 @@ p {
 
 
 
---lab2--
+/* lab2 */
 body {
     font-family: Arial, sans-serif;
 }
@@ -48,7 +48,7 @@ h2, h3 {
     color: darkgreen;
 }
 
----lab3---
+/* lab3 */
 body{
     background-color: #f4f7f6;
     font-family: Arial,sans-serif;
@@ -86,4 +86,29 @@ a{
 a:hover{
     text-decoration: underline;
     color: #e67ee6;
+}
+
+/* Lab 4 */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.card {
+    width: 280px;
+    padding: 24px;
+    margin: 16px;
+    border: 1px solid #b8c4d6;
+    border-radius: 8px;
+    background-color: #fbfdff;
+}
+
+.card h2 {
+    margin-top: 0;
+    color: #0d47a1;
 }
